@@ -6,7 +6,7 @@ Per testare il font, vedere la [pagina interattiva](https://m-casanova.github.io
 ## Descrizione
 ![image](ziffera_veneta.jpg)
 
-Il font "Ziffera veneta" è stato realizzato sulla base del cifrario riportato nella *Tavola II* in L. Pasini, [*Delle scritture in cifra usate dalla repubblica veneta*](https://books.google.it/books?id=LNYEJcndrjEC&pg=PA291),
+Il font "Ziffera veneta" è stato realizzato sulla base del cifrario (fine XV sec. - inizio XVI sec.) riportato nella *Tavola II* in L. Pasini, [*Delle scritture in cifra usate dalla repubblica veneta*](https://books.google.it/books?id=LNYEJcndrjEC&pg=PA291),
 nel volume *Il R. Archivio generale di Venezia*, Venezia, P. Naratovich, 1873, pp. 291-327.
 
 Per ogni lettera sono presenti più versioni (le varianti sono in **'ss02'**, **'ss03'** e **'ss04'**); inoltre alcune doppie hanno un simbolo specifico (**'liga'**).
