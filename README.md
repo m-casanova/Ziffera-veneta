@@ -10,7 +10,7 @@ Il font "Ziffera veneta" è stato realizzato sulla base del cifrario (fine XV se
 nel volume *Il R. Archivio generale di Venezia*, Venezia, P. Naratovich, 1873, pp. 291-327.
 
 Per ogni lettera sono presenti più versioni (le varianti sono in **'ss02'**, **'ss03'** e **'ss04'**); inoltre alcune doppie hanno un simbolo specifico (**'liga'**).
-er complicare la decifrazione del messaggio erano inclusi anche simboli senza significato (inseriti nel font come numeri **1-9**).
+Per complicare la decifrazione del messaggio erano inclusi anche simboli senza significato (inseriti nel font come numeri **1-9**).
 
 Utilizzando la caratteristica **'ss01'** il testo viene cifrato alternando le diverse versioni dei caratteri se appaiono vicini (entro 10 caratteri).
 
