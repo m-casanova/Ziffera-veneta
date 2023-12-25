@@ -1,4 +1,5 @@
 # Ziffera veneta
+- Versione 1.016: fix maiuscole.
 - Versione 1.015: sistemazione allineamenti e miglioramento codifica.
 - Versione 1.0: versione iniziale.
 
