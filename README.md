@@ -1,12 +1,13 @@
 # Ziffera veneta
-- Versione 1.016: fix maiuscole.
-- Versione 1.015: sistemazione allineamenti e miglioramento codifica.
-- Versione 1.0: versione iniziale.
+- Versione 1.101: fix esportazione
+- Versione 1.016: fix maiuscole
+- Versione 1.015: sistemazione allineamenti e miglioramento codifica
+- Versione 1.0: versione iniziale
 
 Per testare il font, vedere la [pagina interattiva](https://m-casanova.github.io/Ziffera-veneta/).
 
 ## Descrizione
-![image](ziffera_veneta.jpg)
+![image](images/ziffera_veneta.jpg)
 
 Il font "Ziffera veneta" è stato realizzato sulla base del cifrario (fine XV sec. - inizio XVI sec.) riportato nella *Tavola II* in L. Pasini, [*Delle scritture in cifra usate dalla Repubblica Veneta*](https://books.google.it/books?id=LNYEJcndrjEC&pg=PA291), in *Il R. Archivio generale di Venezia*, Venezia, P. Naratovich, 1873, pp. 291-327.
 
